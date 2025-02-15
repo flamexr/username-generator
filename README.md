@@ -7,6 +7,7 @@ Kullanıcı adı üretici aracını indirip çalıştırmak için aşağıdaki a
  - Tüm dosyaları masaüstünüzde bir klasöre çıkartın.
  - nick_olustur.bat dosyasını açarak istediğiniz kullanıcı adı türünü ve ayarları yapın.
  - Üretilen kullanıcı adları otomatik olarak nickler.txt dosyasına kaydedilecektir.
+ - Proxy Gerektirmez.
 
 ## 📝 | [Support Server](https://discord.gg/josreen)
 
